@@ -1,3 +1,4 @@
+AI_Mental_Health_Fitness_Tracker
 Mental Health Fitness Tracker The AI Mental Health Fitness Tracker is a Google Colab-based program that utilizes Artificial Intelligence (AI) techniques to track, analyze, and provide insights into mental health and substance use disorders. This tool leverages the datasets "mental-and-substance-use-as-share-of-disease" and "prevalence-by-mental-and-substance-use-disorder" to offer a comprehensive understanding of mental health trends and patterns.
 
 Features
